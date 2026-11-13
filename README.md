@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="COLE_AQUI_O_LINK_DO_SEU_BANNER_ROSA" alt="Banner Bem-vindo" width="100%" style="border-radius: 12px;" />
-</div>
-
 <h2 align="left">Oi! Eu sou a Esthefany Chichineli ✨</h2>
-
-<img align="right" width="175" src="COLE_AQUI_O_LINK_DA_SUA_IMAGEM_NO_GITHUB" alt="Avatar" style="border-radius: 12px;" />
 
 ### ✨ Minha Trajetória & Objetivos
 
@@ -15,46 +9,29 @@ Atualmente, estou aprofundando meus fundamentos em **Lógica de Programação, G
 * 🎯 **Objetivo atual:** Conquistar meu **1º estágio em TI / DevOps** (remoto ou híbrido) para aprender na prática, contribuir com a equipe e construir minha carreira no Brasil.
 * 🚀 **Visão de futuro:** Após concluir a graduação e ganhar experiência sólida, me especializar como **Engenheira DevOps** com foco em **atuação internacional**.
 
-<br clear="right"/>
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo" />
+  <img src="https://jsdelivr.net" height="32" alt="html5" />
+  <img src="https://jsdelivr.net" height="32" alt="css3" />
+  <img src="https://jsdelivr.net" height="32" alt="python" />
+  <img src="https://jsdelivr.net" height="32" alt="git" />
+  <img src="https://jsdelivr.net" height="32" alt="vscode" />
+  <img src="https://jsdelivr.net" height="32" alt="linux" />
+  <img src="https://jsdelivr.net" height="32" alt="bash" />
+  <img src="https://jsdelivr.net" height="32" alt="docker" />
 </div>
 
 ---
 
-### 📈 Estatísticas & Contribuições
+### 📈 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://githubusercontent.com" height="155" alt="stats graph" />
-  <img src="https://githubusercontent.com" height="155" alt="languages graph" />
+  <img height="155" src="https://vercel.app" />
+  <img height="155" src="https://vercel.app" />
 </div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esthefany15/esthefany15/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esthefany15/esthefany15/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/esthefany15/esthefany15/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
 
 ---
 
@@ -64,7 +41,13 @@ Atualmente, estou aprofundando meus fundamentos em **Lógica de Programação, G
 
 <div align="left">
   <a href="mailto:eathefanyoliveira2204@gmail.com" target="_blank">
-    <img src="https://shields.io" height="32" alt="gmail logo" />
+    <img src="https://shields.io" height="32" alt="gmail" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" height="32" alt="linkedin" />
+  </a>
+</div>
+
   </a>
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" height="32" alt="linkedin logo" />
