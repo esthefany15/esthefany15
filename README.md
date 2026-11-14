@@ -7,13 +7,6 @@
 ### 💌 Vamos conversar?<br>- 📍 Localização: Curitiba, PR - Brasil *(Disponível para remoto ou híbrido)*<br>- E-mail: eathefanyoliveira2204@gmail.com<br>Linkdin: www.linkedin.com/in/esthefany-chichineli22</h4>
 
 ###
-
-<div align="center">
-  <img height="165" src="https://githubusercontent.com" alt="Estatísticas" />
-  <img height="165" src="https://githubusercontent.com" alt="Linguagens Mais Usadas" />
-</div>
-
-
 ###
 
 <div data-importer="techs" align="left">
