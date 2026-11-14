@@ -1,5 +1,4 @@
-yaml
-name: Generate stats card
+name: Gerar Cards de Estatísticas
 
 on:
   schedule:
@@ -17,15 +16,23 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate stats.svg
+      - name: Gerar stats.svg (Estatísticas)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
+          options: username=esthefany15&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=1A101E&border_color=F472B6&title_color=F472B6&icon_color=FB7185&text_color=FCE7F3&border_radius=12
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push stats.svg to the output branch
+      - name: Gerar languages.svg (Linguagens)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=esthefany15&layout=compact&langs_count=6&locale=pt-br&bg_color=1A101E&border_color=F472B6&title_color=F472B6&text_color=FCE7F3&border_radius=12
+          path: dist/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar imagens na branch stats-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: stats-output
